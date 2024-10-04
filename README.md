@@ -34,4 +34,4 @@
 <h4>I'm a positive, happy and enthusiast people, organized and resolutive that love team working.</h4>
 
 <h3>CONTACT</h3>
-You can contact me by email, to sanchezpastur@gmail.com
+You can contact me by email, to asturcoder@gmail.com

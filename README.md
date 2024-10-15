@@ -1,37 +1,34 @@
 # Hi there, I'm Acacia Sánchez 👋
 
-## A senior person but with junior heart! 😄
+## A senior with a junior's passion for learning! 😄
 
 <h3>NOWADAYS</h3>
-<h4> As I missed so much the coding life, I'm currently participating in an intense bootcamp learning all about Backend process with the experienced [Factoría F5](https://factoriaf5.org/) team.</h4>
+<h4> Having missed the coding life, I am now participating in an intense bootcamp with [Factoría F5](https://factoriaf5.org), focusing on Backend development.</h4>
 
-<h3>IN THE PAST</h3>
-<ul> <SPAN> <strong> PROGRAMMING </strong> </SPAN>
-<li> Some knowledge of HTML5 and CSS3. </li>
-<li>Wordpress, Elementor, Crocoblock and some other plugins. You can visit the webpage www.elarco.es, made 4 years ago (in my free-time while I was working there), learning alone, by myself, a lot of about.</li>
-<li>After finished my FP-2 studies (Year 1992), I worked some months programming in Clipper.</li>
-</ul>
+<h3>PAST EXPERIENCE </h3>
+<p> <strong> PROGRAMMING </strong> </p>
+<p> I have some knowledge of HTML5 and CSS3, as well as experience with Wordpress, Elementor, Crocoblock, and various plugins. You can visit the website www.elarco.es, which I created four years ago during my free time, while learning everything on my own./p>
+<p> After completing my FP-2 studies in 1992, I spent a few months programming in Clipper.</p>
 
-<ul> <SPAN> <strong> NOT ONLY PROGRAMMING...</strong> </SPAN>
-<li>During some few years, life carried me on microsystems way, working in maintenance (hardware, software and coaxial BNC networks as Novell Netware).</li>
-<li>I'm in computing since long time ago, I got my first computer in the year 1990. Because of that I learned a lot about computers, an SO (ms-dos, windows from 3.10 version) </li>
-</ul>
+<p> <strong> NOT ONLY PROGRAMMING...  </strong> </p>
+<p> For a few years, life took me down the microsystems path, where I worked in maintenance (hardware, software, and coaxial BNC networks, including Novell Netware). </p>
+<p> I've been involved in computing for a long time (I got my first computer in 1990!). This early start gave me the opportunity to learn a great deal about computers and operating systems (MS-DOS, Windows from version 3.1). </p>
+
 
 <h3>LANGUAGES</h3>
-<ul>
-<li>My English level is quite good, maybe B2 o C1, I'm doing the test soon, and hope the Cambridge exam in some months.</li>
-<li>I have basic knowledge of French, and I would like to improve it some day. </li>
-</ul>
+<p> I consider my English to be quite good, likely around a B2 level. I’ll be taking the test soon and hope to sit the Cambridge exam in a few months. </p>
+<p> I also have basic knowledge of French and would love to improve it in the future. </p>
 
 <h3>MY PASSIONS</h3>
 <ul>
-<li>Computing</li>
-<li>Languages (specially English)</li>
-<li>Sports</li>
+<li>Computing, specially coding</li>
+<li>Languages, specially English)</li>
+<li>Sports, specially soccer and dive </li>
+<li>Dance, specially latin dance</li>
 </ul>
 
 <h3>ABOUT ME</h3>
-<h4>I'm a positive, happy and enthusiast people, organized and resolutive that love team working.</h4>
+<p> </p>I’m a positive, enthusiastic and organized person who loves working in teams. I'm also highly solution-oriented. </p>
 
 <h3>CONTACT</h3>
-You can contact me by email, to asturcoder@gmail.com
+Feel free to reach out to me by email at: asturcoder@gmail.com

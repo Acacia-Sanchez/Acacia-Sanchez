@@ -20,8 +20,8 @@
 
 
 <h3>LANGUAGES</h3>
-<p> Certificate B2 with distinttion. </p>
-<p> I also have basic knowledge of French and would love to improve it in the future. </p>
+<p> ENGLISH: Certificate B2 with distinttion. </p>
+<p> FRENCH: I also have some basic knowledge of French and would love to improve it in the future. </p>
 
 <h3>MY PASSIONS</h3>
 <ul>

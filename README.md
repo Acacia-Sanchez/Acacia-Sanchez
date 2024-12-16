@@ -20,7 +20,7 @@
 
 
 <h3>LANGUAGES</h3>
-<p> I consider my English to be quite good, likely around a B2 level. I’ll be taking the test soon and hope to sit the Cambridge exam in a few months. </p>
+<p> Certificate B2 with distinttion. </p>
 <p> I also have basic knowledge of French and would love to improve it in the future. </p>
 
 <h3>MY PASSIONS</h3>
